@@ -37,7 +37,7 @@ htmlhelp_basename = 'jackal_tutorialsdoc'
 
 
 templates_path = ['./templates']
-html_static_path = ['./static']
+html_static_path = ['./theme/static']
 
 html_sidebars = {
    '**': ['sidebartoc.html', 'sourcelink.html', 'searchbox.html']
